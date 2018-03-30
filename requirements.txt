@@ -1,8 +1,0 @@
-numpy==1.14.2
-matplotlib==2.2.2
-jupyter
-pytraj
-mdtraj
-MDAnalysis
-simpletraj
-git+https://github.com/arose/nglview.git
